@@ -2,7 +2,7 @@
 
 **Personal Academic Portfolio**
 
-Recording Handwritten Problem Solutions
+Recording Handwritten Things
 
 ---
 ## Uploaded Chapters
