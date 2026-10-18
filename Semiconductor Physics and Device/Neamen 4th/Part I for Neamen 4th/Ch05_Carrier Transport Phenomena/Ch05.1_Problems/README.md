@@ -1,3 +1,3 @@
 # Chapter 5: Carrier Transport Phenomena      
 
-How I Studied the Main Text and Examples
+How I Studied the Problems
