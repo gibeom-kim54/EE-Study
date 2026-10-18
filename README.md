@@ -7,7 +7,7 @@ Recording Handwritten Things
 ---
 ## Uploaded Chapters
 
-### Neamen 4th Edition
+### MicroElectrics ( Neamen 4th Edition )
 - [Ch02 - Introduction to Quantum Mechanics](Semiconductor%20Physics%20and%20Device/Neamen%204th/Part%20I%20for%20Neamen%204th/Ch02_Introduction%20to%20Quantum%20Mechanics/)
 - [Ch03 - Introduction to the Quantum Theory of Solids](Semiconductor%20Physics%20and%20Device/Neamen%204th/Part%20I%20for%20Neamen%204th/Ch03_Introduction%20to%20the%20Quantum%20Theory%20of%20Solids/)
 
