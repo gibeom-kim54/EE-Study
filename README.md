@@ -11,6 +11,8 @@ Recording Handwritten Things
 
 ### Microelectronics (Razavi 3rd Edition)
 
+- **Ch03 - Diode Models and Circuits** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch03_DIODE%20MODELS%20AND%20CIRCUITS/) · [Problems](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch03_DIODE%20MODELS%20AND%20CIRCUITS/Ch03.1_Problems/)
+
 - **Ch04 - Physics of Bipolar Transistors** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch04_PHYSICS%20OF%20BIPOLAR%20TRANSISTORS/) · [Problems](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch04_PHYSICS%20OF%20BIPOLAR%20TRANSISTORS/Ch04.1_Problems/)
 
 - **Ch05 - Bipolar Amplifiers** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch05_BIPOLAR%20AMPLIFIERS/) · [Problems](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch05_BIPOLAR%20AMPLIFIERS/Ch05.1_Problems/)
