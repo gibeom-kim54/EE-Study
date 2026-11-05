@@ -17,6 +17,8 @@ Recording Handwritten Things
 
 - **Ch05 - Bipolar Amplifiers** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch05_BIPOLAR%20AMPLIFIERS/) · [Problems](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch05_BIPOLAR%20AMPLIFIERS/Ch05.1_Problems/)
 
+- **Ch06 - Physics of MOS Transistors** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch06_PHYSICS%20OF%20MOS%20TRANSISTORS/) · [Problems](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch06_PHYSICS%20OF%20MOS%20TRANSISTORS/Ch06.1_Problems/)
+
 ### Semiconductor Physics and Device (Neamen 4th Edition)
 
 - **Ch02 - Introduction to Quantum Mechanics** | [Notes](Semiconductor%20Physics%20and%20Device/Neamen%204th/Part%20I%20for%20Neamen%204th/Ch02_Introduction%20to%20Quantum%20Mechanics/) · [Problems](Semiconductor%20Physics%20and%20Device/Neamen%204th/Part%20I%20for%20Neamen%204th/Ch02_Introduction%20to%20Quantum%20Mechanics/Ch02.1_Problems/)
