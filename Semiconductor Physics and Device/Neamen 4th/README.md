@@ -1,4 +1,4 @@
-# Neamen 4th
+# Neamen 4th(KOR)
 
 - Upload about "Semiconductor Physics and Device" from Donald A. Neamen  
 - https://product.kyobobook.co.kr/detail/S000000930291
