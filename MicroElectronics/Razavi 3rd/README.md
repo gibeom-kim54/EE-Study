@@ -1,6 +1,6 @@
-# Razavi 3rd Edition
+# Razavi 3rd Edition(KOR)
 
-- Upload about "Fundamentals of MicroElectronics" from Behzad Razavi  
+- Upload about "Fundamentals of MicroElectronics" from Behzad Razavi 
 - https://product.kyobobook.co.kr/detail/S000201203636  
 - Following "Semester System, Syllabus II" sketched in Guidance
 
