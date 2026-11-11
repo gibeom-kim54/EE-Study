@@ -1,4 +1,4 @@
-# Razavi 3rd Edition
+# Razavi 3rd Edition(KOR)
 
 - Upload about "Fundamentals of MicroElectronics" from Behzad Razavi  
 - https://product.kyobobook.co.kr/detail/S000201203636  
