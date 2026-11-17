@@ -9,7 +9,7 @@ Recording Handwritten Things
 
 ## Uploaded Chapters
 
-### Microelectronics [(Razavi 3rd Edition)](MicroElectronics/Razavi%203rd/)
+### Microelectronics | [(Razavi 3rd Edition)](MicroElectronics/Razavi%203rd/)
 
 - **Ch03 - Diode Models and Circuits** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch03_DIODE%20MODELS%20AND%20CIRCUITS/) · [Problems](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch03_DIODE%20MODELS%20AND%20CIRCUITS/Ch03.1_Problems/)
 
@@ -21,7 +21,7 @@ Recording Handwritten Things
 
 - **Ch07 - CMOS Amplifiers** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch07_CMOS%20AMPLIFIERS/)
 
-### Semiconductor Physics and Device [(Neamen 4th Edition)](Semiconductor%20Physics%20and%20Device/Neamen%204th/)
+### Semiconductor Physics and Device | [(Neamen 4th Edition)](Semiconductor%20Physics%20and%20Device/Neamen%204th/)
 
 - **Ch02 - Introduction to Quantum Mechanics** | [Problems](Semiconductor%20Physics%20and%20Device/Neamen%204th/Part%20I%20for%20Neamen%204th/Ch02_Introduction%20to%20Quantum%20Mechanics/Ch02.1_Problems/)
 
