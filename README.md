@@ -19,6 +19,8 @@ Recording Handwritten Things
 
 - **Ch06 - Physics of MOS Transistors** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch06_PHYSICS%20OF%20MOS%20TRANSISTORS/)
 
+- **Ch07 - CMOS Amplifiers** | [Notes](MicroElectronics/Razavi%203rd/1st%20Semester%20for%20Razavi%203rd/Ch07_CMOS%20AMPLIFIERS/)
+
 ### Semiconductor Physics and Device (Neamen 4th Edition)
 
 - **Ch02 - Introduction to Quantum Mechanics** | [Problems](Semiconductor%20Physics%20and%20Device/Neamen%204th/Part%20I%20for%20Neamen%204th/Ch02_Introduction%20to%20Quantum%20Mechanics/Ch02.1_Problems/)
